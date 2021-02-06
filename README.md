@@ -39,7 +39,14 @@ add code top index.css</br>
   * {</br>
     margin:0;</br>
   }</br>
+create Header.js in src folder</br>
+add plugin "VS Code ES7 React/Redux/React-Native/JS snippets" and "Prettier"</br>
+in Header.js write "rfce" click enter button</br>
+create Header.css</br>
 
+HEADER
+---
+logo -search - little picture
 
 vscode
 ---
