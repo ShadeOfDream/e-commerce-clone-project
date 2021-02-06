@@ -29,6 +29,17 @@ firebase init<br/>
 //deploy your web app<br/>
 firebase deploy<br/>
 
+go to sidebar and click settings button -> project setting<br/>
+firebase sdk snippet choose config and copy code then go vscode<br/>
+in src folder create a firebase.js file and paste code to the file</br>
+delete 3 file-> App.test.js , logo.svg , setupTests.js</br>
+clear div tag included code at App.js file and delet import logo.svg file line</br>
+clear App.css file in code</br>
+add code top index.css</br>
+  * {</br>
+    margin:0;</br>
+  }</br>
+
 
 vscode
 ---
